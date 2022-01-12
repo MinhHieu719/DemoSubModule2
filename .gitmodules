@@ -1,0 +1,3 @@
+[submodule "DemoSubModule1"]
+	path = DemoSubModule1
+	url = https://github.com/MinhHieu719/DemoSubModule1.git
